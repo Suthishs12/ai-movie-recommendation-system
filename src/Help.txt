@@ -1,0 +1,4 @@
+open cmd 
+cd copy address of program file
+then click Enter 
+streamlit run app.py
