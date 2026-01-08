@@ -1,4 +1,4 @@
 open cmd 
-cd copy address of program file
+copy the address of src cd"path"
 then click Enter 
 streamlit run app.py
